@@ -31,7 +31,7 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:84px;-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif;line-height:1.6;overflow-x:hidden}
-gif,svg{[max-width:100%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZv9_TlRBJ2q35cpf3rDsfaD_txyLvjCVM5BB145waug&s=10}}
+gif,svg{max-width:100%](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZv9_TlRBJ2q35cpf3rDsfaD_txyLvjCVM5BB145waug&s=10}
 h1,h2,h3{font-family:Outfit,Inter,sans-serif;font-weight:300;line-height:1.1;margin:0}
 a{color:inherit;text-decoration:none}
 .wrap{max-width:1100px;margin:0 auto;padding:0 24px}
